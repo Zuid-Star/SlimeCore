@@ -43,7 +43,7 @@ Material:
     m_Floats:
     - _GridAngle: 0
     - _GridDensity: -20
-    - _LineWidth: 0.0015478709
+    - _LineWidth: 0.0013552648
     - _NoiseScale: 10
     - _NoiseStrength: 1
     - _ScanAlpha: 0
