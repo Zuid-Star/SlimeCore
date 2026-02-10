@@ -12,6 +12,7 @@ public class MainMenu : MonoBehaviour
     private void Start()
     {
         changeBack = transform.parent.GetComponentInChildren<ChangeBack>();
+        Screen.SetResolution(1280, 720, FullScreenMode.Windowed);
     }
 
     public void BegianButton()
